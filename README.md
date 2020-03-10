@@ -45,9 +45,9 @@ A seguir um exemplo do algoritmo de conversão.
 0. Percorrer a lista de número arábicos da tabela acima na ordem que é apresentada (**1000 até 1**).
 1. Dividir o número arábico por cada elemento da lista e pegar o resultado da parte inteira da divisão.
 > 2248 / 1000 = **2**,428
-2. Multiplicar o item corrente da lista pela parte inteira da divisão
+2. Multiplicar o item corrente da lista pela parte inteira da divisão (**apenas quando o resto da divisão for maior que 0**)
 > 1000 * 2 = **2000**
-3. Subtrair o valor pelo número de entrada
+3. Subtrair o valor do número de entrada
 > 2428 - 2000 = **428**
 4. Para o valor do elemento da lista (1000) pegar seu caractere correspondente em romanos e concatenar pela parte inteira da divisão (item 2).
 > M * 2 = **MM**
