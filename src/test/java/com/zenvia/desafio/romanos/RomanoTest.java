@@ -13,13 +13,7 @@ public class RomanoTest {
 	@Test
 	public void validaConstrutorTest() {
 		Romano romano = new Romano("I");
-
 		assertEquals(romano.getNumero(), "I");
-
-		/*
-		 * assertEquals("", romano.getUnidade()); assertEquals("", romano.getDezena());
-		 * assertEquals("", romano.getCentena()); assertEquals("", romano.getMilhar());
-		 */
 	}
 
 	@Test
