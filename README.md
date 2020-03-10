@@ -103,9 +103,12 @@ A seguir um exemplo do algoritmo de conversão.
 
 ## Para executar
 
+Existe uma classe Principal.java com a instância de dois objetos, Arabico e Romano e um print do resultado da conversão. Os valores podem ser alterados e se faz necessário rodar os seguintes comandos para gerar um pacote executável.
 
 ```
-
+mvn install (para gerar o .jar)
+no diretório target executar o comando:
+java -jar romanos-jar-with-dependencies.jar
 ```
 
 ## Testes unitários
