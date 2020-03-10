@@ -113,6 +113,8 @@ java -jar romanos-jar-with-dependencies.jar
 
 ## Testes unitários
 
+A cobertura de código com os testes unitários automatizados **passa de 90%**. A classe de teste **ValidaConversaoTest** utiliza um arquivos texto com a saída da conversão dos números de 1 a 3000 (fonte: https://fazaconta.com/calculadora-romanos.htm ). Foi criado um arquivo texto (**em /src/test/resources/numeros_romanos.txt**) com este resultado de conversão e o mesmo é utilizado para conferir o resultado dos algoritmos desenvolvidos.
+
 Relatório local de cobertura de código dos testes unitários pode ser executado localmente.
 Acessível na pasta **target\site\jacoco**.
 
