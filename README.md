@@ -155,3 +155,9 @@ Acessível na pasta **target\site\cobertura**.
 
 - Foi utilizado o plugIn FindBugs localmente no Eclipse para análise estática de código. Nenhuma issue reportada.
 
+## Algumas referências
+http://www.novaroma.org/via_romana/numbers.html
+http://www.climaat.angra.uac.pt/produtos/calculadoras/numeros_romanos.htm
+https://fazaconta.com/calculadora-romanos.htm
+http://www.faqs.org/docs/javap/c9/ex-9-3-answer.html
+https://help.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax
