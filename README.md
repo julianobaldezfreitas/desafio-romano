@@ -131,23 +131,22 @@ Acessível na pasta **target\site\cobertura**.
  
 [Travis](https://travis-ci.org)
  
-[![Build Status](https://travis-ci.org/julianobaldezfreitas/Desafio-Zenvia.svg?branch=master)](https://travis-ci.org/julianobaldezfreitas/Desafio-Zenvia)
+[![Build Status](https://travis-ci.org/julianobaldezfreitas/desafio-romano.svg?branch=master)](https://travis-ci.org/julianobaldezfreitas/desafio-romano)
  
 **Qualidade do código**
  
 [Análise estática do código - Code Inspector](https://www.code-inspector.com/)
+
+[![Code Quality](https://www.code-inspector.com/project/4996/score/svg)](https://frontend.code-inspector.com/public/project/4996/desafio-romano/dashboard)
  
-[![Code Quality](https://www.code-inspector.com/project/4996/score/svg)](https://frontend.code-inspector.com/public/project/4996/Desafio-Zenvia/dashboard)
- 
-[![Code Quality](https://www.code-inspector.com/project/4996/status/svg)](https://frontend.code-inspector.com/public/project/4996/Desafio-Zenvia/dashboard)
+[![Code Quality](https://www.code-inspector.com/project/4996/status/svg)](https://frontend.code-inspector.com/public/project/4996/desafio-romano/dashboard)
  
 
 **Cobertura de Código:**  
  
 [CodeCov](https://codecov.io)
- 
-[![codecov](https://codecov.io/gh/julianobaldezfreitas/Desafio-Zenvia/branch/master/graph/badge.svg)](https://codecov.io/gh/julianobaldezfreitas/Desafio-Zenvia)
- 
+
+[![codecov](https://codecov.io/gh/julianobaldezfreitas/desafio-romano/branch/master/graph/badge.svg)](https://codecov.io/gh/julianobaldezfreitas/desafio-romano)
 
 - Foi utilizado o plugIn FindBugs localmente no Eclipse para análise estática de código. Nenhuma issue reportada.
 
