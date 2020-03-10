@@ -51,7 +51,6 @@ A seguir um exemplo do algoritmo de conversão.
 > 2428 - 2000 = **428**
 4. Para o valor do elemento da lista (1000) pegar seu caractere correspondente em romanos e concatenar pela parte inteira da divisão (item 2).
 > M * 2 = **MM**
-6. Repetir para cada elemento da lista (item 1)
 
 | Nro  | Lista| Passo 1     | Passo 2             | Passo 3               | Passo 4                |
 |------|------|-------------|---------------------|-----------------------|------------------------|
